@@ -1,0 +1,12 @@
+{
+  "name": "IapDemo",
+  "displayName": "IapDemo",
+  "expo": {
+    "name": "IapDemo",
+    "slug": "IapDemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
