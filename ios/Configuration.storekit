@@ -1,7 +1,7 @@
 {
   "products" : [
     {
-      "displayPrice" : "0.99",
+      "displayPrice" : "2.99",
       "familyShareable" : false,
       "internalID" : "2428ED5E",
       "localizations" : [
@@ -16,7 +16,7 @@
       "type" : "Consumable"
     },
     {
-      "displayPrice" : "11.99",
+      "displayPrice" : "4.99",
       "familyShareable" : true,
       "internalID" : "2932CA02",
       "localizations" : [
@@ -61,7 +61,7 @@
           "adHocOffers" : [
 
           ],
-          "displayPrice" : "399",
+          "displayPrice" : "2.99",
           "familyShareable" : false,
           "groupNumber" : 1,
           "internalID" : "603A4CB3",
@@ -78,7 +78,7 @@
             }
           ],
           "productID" : "com.mb.subscribe1",
-          "recurringSubscriptionPeriod" : "P1M",
+          "recurringSubscriptionPeriod" : "P6M",
           "referenceName" : "MB Subscription 1",
           "subscriptionGroupID" : "F085B52A",
           "type" : "RecurringSubscription"
@@ -87,7 +87,7 @@
           "adHocOffers" : [
 
           ],
-          "displayPrice" : "0.99",
+          "displayPrice" : "4.99",
           "familyShareable" : true,
           "groupNumber" : 1,
           "internalID" : "C6397997",

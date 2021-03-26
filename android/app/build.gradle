@@ -132,7 +132,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.phalanx"
+        applicationId "com.iapMbApp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 3
@@ -164,7 +164,6 @@ android {
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
-             minifyEnabled true
         }
         release {
             // Caution! In production, you need to generate your own keystore file.

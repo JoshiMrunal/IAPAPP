@@ -8,13 +8,18 @@ import {
 
 
 const DashboardComponent = (props) => {
+
     const { state } = props.navigation;
+
+
     useEffect(() => {
         return () => {
         };
     }, []);
 
     return (
+
+
         <View style={localStyles.Container}>
             <View style={localStyles.subContainer}>
                 <View>
