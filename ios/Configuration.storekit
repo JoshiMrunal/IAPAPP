@@ -29,6 +29,21 @@
       "productID" : "com.mb.item2",
       "referenceName" : null,
       "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A921587A",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.temporary.id",
+      "referenceName" : null,
+      "type" : "NonConsumable"
     }
   ],
   "settings" : {
@@ -65,6 +80,28 @@
           "productID" : "com.mb.subscribe1",
           "recurringSubscriptionPeriod" : "P1M",
           "referenceName" : "MB Subscription 1",
+          "subscriptionGroupID" : "F085B52A",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : true,
+          "groupNumber" : 1,
+          "internalID" : "C6397997",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Non-Renewing Subscription",
+              "displayName" : "Non-Renewing Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.mb.subscribe2",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Non-Renewing Subscription",
           "subscriptionGroupID" : "F085B52A",
           "type" : "RecurringSubscription"
         }

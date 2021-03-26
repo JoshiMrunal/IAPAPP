@@ -15,7 +15,7 @@ let purchaseUpdateSubscription = null;
 let purchaseErrorSubscription = null;
 
 const itemSkus = Platform.select({
-  ios: ["com.mb.subscribe1"],
+  ios: ["com.mb.subscribe1", "com.mb.subscribe2"],
   android: ["com.phalanx.wksubiap001", "wk.subiap_001"],
 });
 
